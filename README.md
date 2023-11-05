@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadieee" alt="hadieee" /></a> </p>
 
-- 🔭 I’m currently working on [Final Project of Framework-Based Programming]([https://github.com/Hadieee/PBO](https://github.com/Hadieee/Akiong-Warehouse))
+- 🔭 I’m currently working on [Final Project of Framework-Based Programming](https://github.com/Hadieee/Akiong-Warehouse)
 
 - 💬 Ask me about **Python, C++, Java, Flutter**
 
